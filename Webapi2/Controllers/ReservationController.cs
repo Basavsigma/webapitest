@@ -10,7 +10,7 @@ using Webapi2.Models;
 namespace Webapi2.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/[controller]")] 
     public class ReservationController : ControllerBase
     {
 
