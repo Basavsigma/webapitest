@@ -352,11 +352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\40118207\\source\\repos\\Webapi2\\Webapi2\\Webapi2.csproj",
+      "projectUniqueName": "C:\\Users\\40118207\\Source\\Repos\\webapitest\\Webapi2\\Webapi2.csproj",
       "projectName": "Webapi2",
-      "projectPath": "C:\\Users\\40118207\\source\\repos\\Webapi2\\Webapi2\\Webapi2.csproj",
+      "projectPath": "C:\\Users\\40118207\\Source\\Repos\\webapitest\\Webapi2\\Webapi2.csproj",
       "packagesPath": "C:\\Users\\40118207\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\40118207\\source\\repos\\Webapi2\\Webapi2\\obj\\",
+      "outputPath": "C:\\Users\\40118207\\Source\\Repos\\webapitest\\Webapi2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\40118207\\AppData\\Roaming\\NuGet\\NuGet.Config",
